@@ -13,15 +13,21 @@ Aqui você vai encontrar:
 
 ### Linguagens e Ferramentas
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Python" width="26px" src="Prints/python.png" />
+<img align="left" alt="R | RStudio" width="26px" src="Prints/rstudio.png" />
+<img align="left" alt="MySQL" width="26px" src="Prints/mysql.png" />
+<img align="left" alt="Excel" width="26px" src="Prints/excel.png" />
+<img align="left" alt="Pycharm" width="26px" src="Prints/pycharm.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="Prints/visual-studio-code.png" />
+
+</br>
 
 ----
 
 ### Redes Sociais:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="Prints/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="Prints/linkedin.png" />][linkedin]
 
 [twitter]: https://twitter.com/_vini_nery_
 [linkedin]: https://www.linkedin.com/in/viniciusdealmeidaneryferreira/
