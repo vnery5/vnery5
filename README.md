@@ -15,10 +15,12 @@ Aqui você vai encontrar:
 
 <img align="left" alt="Python" width="26px" src="Prints/python.png" />
 <img align="left" alt="R | RStudio" width="26px" src="Prints/rstudio.png" />
+<img align="left" alt="Jupyter" width="26px" src="Prints/jupyter.svg" />
 <img align="left" alt="MySQL" width="26px" src="Prints/mysql.png" />
 <img align="left" alt="Excel" width="26px" src="Prints/excel.png" />
 <img align="left" alt="Pycharm" width="26px" src="Prints/pycharm.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="Prints/visual-studio-code.png" />
+<img align="left" alt="Latex" width="26px" src="Prints/latex.png" />
 
 </br>
 
@@ -31,3 +33,15 @@ Aqui você vai encontrar:
 
 [twitter]: https://twitter.com/_vini_nery_
 [linkedin]: https://www.linkedin.com/in/viniciusdealmeidaneryferreira/
+
+</br>
+
+----
+
+### Estatísticas
+
+Quadros criados a partir [deste GitHub](https://github.com/anuraghazra/github-readme-stats).
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnery5&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnery5&layout=compact&theme=dracula&hide_border=true)
