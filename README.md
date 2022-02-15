@@ -7,6 +7,7 @@ Aqui você vai encontrar:
 - Um repositório com várias funções de [Econometria em Python](https://github.com/vnery5/Econometria);
 - Um dashboard (desatualizado) de casos, mortes e estatísticas de [Covid-19 por município](https://github.com/vnery5/Covid_19_por_Cidade);
 - Vários repositórios com estimações e análises de Matrizes Insumo-Produto;
+- Um repositório com alguns projetos pessoais feitos para [aprender algoritmos de Machine Learning](https://github.com/vnery5/Projetos_Pessoais_MachineLearning);
 - e outras coisas mais!
 
 ----
