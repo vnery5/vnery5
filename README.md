@@ -8,7 +8,7 @@ Aqui você vai encontrar:
 - Um dashboard (desatualizado) de casos, mortes e estatísticas de [Covid-19 por município](https://github.com/vnery5/Covid_19_por_Cidade);
 - Vários repositórios com estimações e análises de Matrizes Insumo-Produto;
 - Um repositório com alguns projetos feitos para [aprender algoritmos de Machine Learning](https://github.com/vnery5/Projetos_Pessoais_MachineLearning);
-- Um repositório com os códigos dos [artigos](https://github.com/vnery5/Artigos) que escrevi;
+- Um repositório com os códigos dos [artigos e trabalhos](https://github.com/vnery5/Papers) que escrevi;
 
 ----
 
@@ -22,18 +22,6 @@ Aqui você vai encontrar:
 <img align="left" alt="Pycharm" width="26px" src="Prints/pycharm.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="Prints/visual-studio-code.png" />
 <img align="left" alt="Latex" width="26px" src="Prints/latex.png" />
-
-</br>
-
-----
-
-### Redes Sociais:
-
-[<img align="left" alt="Twitter" width="22px" src="Prints/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="Prints/linkedin.png" />][linkedin]
-
-[twitter]: https://twitter.com/_vini_nery_
-[linkedin]: https://www.linkedin.com/in/viniciusdealmeidaneryferreira/
 
 </br>
 
