@@ -1,18 +1,18 @@
-### Oi 👋! Eu sou o Vinícius, bem-vindo ao meu GitHub!
+### Hi 👋! I'am Vinícius, welcome to my GitHub!
 
-Sou um estudante de Economia 22 anos que gosta muito de mexer com dados (além de ser viciado em basquete).
+I am a 24 year old Economics student who is passionate about data (and basketball).
 
-Aqui você vai encontrar:
+These are the main things you will find here:
 
-- Um repositório com várias funções de [Econometria em Python](https://github.com/vnery5/Econometria);
-- Um dashboard (desatualizado) de casos, mortes e estatísticas de [Covid-19 por município](https://github.com/vnery5/Covid_19_por_Cidade);
-- Vários repositórios com estimações e análises de Matrizes Insumo-Produto;
-- Um repositório com alguns projetos feitos para [aprender algoritmos de Machine Learning](https://github.com/vnery5/Projetos_Pessoais_MachineLearning);
-- Um repositório com os códigos dos [artigos e trabalhos](https://github.com/vnery5/Papers) que escrevi;
+- Some [Econometric Functions in Python](https://github.com/vnery5/Econometria);
+- A [Covid-19 dashboard](https://github.com/vnery5/Covid_19_por_Cidade) with statistics across Brazilian municipalities (no longer updated);
+- Some Input-Output estimations and analysis;
+- Some personal projects to learn [Machine Learning algorithms](https://github.com/vnery5/Projetos_Pessoais_MachineLearning);
+- [Some codes of papers and work](https://github.com/vnery5/Papers) (in Portuguese).
 
 ----
 
-### Linguagens e Ferramentas
+### Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="Prints/python.png" />
 <img align="left" alt="R | RStudio" width="26px" src="Prints/rstudio.png" />
@@ -27,9 +27,9 @@ Aqui você vai encontrar:
 
 ----
 
-### Estatísticas
+### Statistics
 
-Quadros criados a partir [deste GitHub](https://github.com/anuraghazra/github-readme-stats).
+Sourced from [this GitHub](https://github.com/anuraghazra/github-readme-stats).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnery5&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
 
