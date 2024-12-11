@@ -8,7 +8,8 @@ These are the main things you will find here:
 - A [Covid-19 dashboard](https://github.com/vnery5/Covid_19_por_Cidade) with statistics across Brazilian municipalities (no longer updated);
 - Some Input-Output estimations and analysis;
 - Some personal projects to learn [Machine Learning algorithms](https://github.com/vnery5/Projetos_Pessoais_MachineLearning);
-- [Some codes of papers and work](https://github.com/vnery5/Papers) (in Portuguese).
+- [Some codes of papers and work](https://github.com/vnery5/Papers) (in Portuguese);
+- Codes of some of the courses at my Master's in *São Paulo School of Economics (FGV-EESP)*.
 
 ----
 
@@ -25,12 +26,10 @@ These are the main things you will find here:
 
 </br>
 
-----
-
 ### Statistics
 
 Sourced from [this GitHub](https://github.com/anuraghazra/github-readme-stats).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnery5&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnery5&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnery5&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnery5&layout=compact&theme=dracula&hide_border=true
