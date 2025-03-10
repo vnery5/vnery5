@@ -25,11 +25,3 @@ These are the main things you will find here:
 <img align="left" alt="Latex" width="26px" src="Prints/latex.png" />
 
 </br>
-
-### Statistics
-
-Sourced from [this GitHub](https://github.com/anuraghazra/github-readme-stats).
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnery5&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnery5&layout=compact&theme=dracula&hide_border=true
